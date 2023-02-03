@@ -1,0 +1,25 @@
+<h1>Melhores Filmes de 2022</h1>
+<p>Lista dos melhores filmes de 2022, de acordo com o <b>IMDB</b></p>
+
+<table class="table table-striped">
+    <caption>FILMES</caption>
+    <thead>
+        <tr>
+            <th>Imagem</th>
+            <th>Nome</th>
+            <th>Duração</th>
+            <th>Avaliação </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let course of courses">
+            <td><img [src]="course.imageUrl"  height="100px"></td>
+            <td>{{ course.name }} </td>
+            <td>{{ course.duration }}</td>
+            <td>
+                <app-star [rating]="course.rating"></app-star>
+            </td>
+        </tr>
+    </tbody>
+
+</table>
