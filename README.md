@@ -1,27 +1,15 @@
-# CourseManager
+# Projeto de Página Simples em Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
+Página simples criada com componentes para denominar alguns atributos de itens, sendo estes itens, filmes classificados devidamente pela IMDB.
+É uma página com finalidade apenas de criação para teste, portanto os dados que constam na tabela não são necessariamente exatos.
+Há também componentes com atributos interdependentes no qual usei para estilizar alguns atributos.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Página Sujeita à alterações
 
-## Code scaffolding
+Pretendo ainda criar outra interface com conteúdo na mesma página para experimentar da estrutura modular do Angular.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Outros
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Utilizei bootstrap para formato padrão da interface.
+Utilizei também o font-awesome para ajudar na estilização, mais especificamente na estrelas de avaliação.
