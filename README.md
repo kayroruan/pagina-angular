@@ -7,11 +7,11 @@ Página simples criada com componentes para denominar alguns itens e atributos.
 
 # Conceitos exercidos na aplicação
 
-Componente com atributos interdependentes
-Injeção de Dependência
-Eventos com Data Binding
-Rotas e Ativação de Rotas
-Consistência dos Templates
+-Componente com atributos interdependentes
+-Injeção de Dependência
+-Eventos com Data Binding
+-Rotas e Ativação de Rotas
+-Consistência dos Templates
 
 
 ## Algumas Explicações de Interação da Aplicação
