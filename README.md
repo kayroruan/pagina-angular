@@ -4,6 +4,8 @@ Página simples criada com componentes para denominar alguns itens e atributos.
 
 É uma página com finalidade apenas de criação para teste, portanto os valores na tabela são fictícios.
 
+É um exercício proposto por uma aula da DIO em proposta à introdução ao Angular.
+
 
 # Conceitos exercidos na aplicação
 
